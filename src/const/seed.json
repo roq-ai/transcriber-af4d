@@ -1,0 +1,2172 @@
+[
+  {
+    "video": [
+      {
+        "id": "1b95044d-0d6e-4b6a-a456-dfd435af2c8f",
+        "title": "Introduction to Machine Learning",
+        "duration": 65458,
+        "created_at": "2023-09-17T02:37:36.383Z",
+        "updated_at": "2023-09-17T18:27:57.083Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4cab1933-12c2-469d-94c8-2ac02b4c5299",
+        "title": "The Art of Photography",
+        "duration": 43317,
+        "created_at": "2023-09-16T22:25:03.291Z",
+        "updated_at": "2023-09-17T21:38:57.605Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "daa5a174-9925-46ec-a0ed-14a201674d6d",
+        "title": "Effective Communication Strategies",
+        "duration": 81944,
+        "created_at": "2023-09-17T11:55:35.502Z",
+        "updated_at": "2023-09-17T08:44:50.205Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0c29c54f-df3b-4d92-9aab-1c1b6d7f8aa5",
+        "title": "Yoga for Beginners",
+        "duration": 56037,
+        "created_at": "2023-09-16T23:44:30.542Z",
+        "updated_at": "2023-09-17T13:17:13.833Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c70000f7-9486-4673-8a0c-5d9c3182af42",
+        "title": "Cooking with Chef",
+        "duration": 31978,
+        "created_at": "2023-09-17T16:40:10.310Z",
+        "updated_at": "2023-09-17T17:24:12.424Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "e4fca2a8-b05d-4001-a704-bd12846fe576",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-17T01:15:18.149Z",
+        "updated_at": "2023-09-17T02:49:59.215Z",
+        "video_id": "4cab1933-12c2-469d-94c8-2ac02b4c5299"
+      },
+      {
+        "id": "ece9a807-382e-4cd2-8395-54d824fcdbed",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-17T20:08:00.498Z",
+        "updated_at": "2023-09-17T16:10:16.131Z",
+        "video_id": "c70000f7-9486-4673-8a0c-5d9c3182af42"
+      },
+      {
+        "id": "b699ea6f-9989-48ee-908b-4e808cf40443",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "created_at": "2023-09-17T06:54:13.623Z",
+        "updated_at": "2023-09-17T09:18:50.764Z",
+        "video_id": "1b95044d-0d6e-4b6a-a456-dfd435af2c8f"
+      },
+      {
+        "id": "23c6fc4f-265b-4191-9674-56325658145b",
+        "content": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+        "created_at": "2023-09-16T22:28:30.958Z",
+        "updated_at": "2023-09-17T17:19:51.251Z",
+        "video_id": "c70000f7-9486-4673-8a0c-5d9c3182af42"
+      },
+      {
+        "id": "a5d560db-e57d-405c-927d-67e31ee8a9d7",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-17T03:07:21.539Z",
+        "updated_at": "2023-09-17T02:38:32.794Z",
+        "video_id": "1b95044d-0d6e-4b6a-a456-dfd435af2c8f"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "2588c152-e863-44e5-baff-9dbdea0c08fe",
+        "name": "Basic Plan",
+        "price_per_hour": 96384,
+        "max_hours": 83358,
+        "created_at": "2023-09-17T22:23:45.414Z",
+        "updated_at": "2023-09-17T10:17:48.108Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6de1ce4d-7e49-4c12-8745-b45d4e13368b",
+        "name": "Premium Plan",
+        "price_per_hour": 47267,
+        "max_hours": 25403,
+        "created_at": "2023-09-17T09:10:30.431Z",
+        "updated_at": "2023-09-17T09:20:22.262Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ce372447-9c97-431d-9ab2-f7e15bab185f",
+        "name": "Business Plan",
+        "price_per_hour": 63048,
+        "max_hours": 75948,
+        "created_at": "2023-09-17T12:35:29.517Z",
+        "updated_at": "2023-09-17T05:42:40.568Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6809d7b7-e11f-4ba6-bb77-c4c3cb3a3f03",
+        "name": "Enterprise Plan",
+        "price_per_hour": 78284,
+        "max_hours": 78647,
+        "created_at": "2023-09-17T07:12:28.658Z",
+        "updated_at": "2023-09-17T18:52:31.396Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e65f16fe-be9e-4856-859c-f9b63b51ec1b",
+        "name": "Ultimate Plan",
+        "price_per_hour": 60371,
+        "max_hours": 64440,
+        "created_at": "2023-09-17T20:17:07.697Z",
+        "updated_at": "2023-09-17T09:10:17.029Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "40dc9128-fe9a-4e4d-9ad4-51f5b74c9556",
+        "name": "Social Media Marketing",
+        "price_per_hour": 1913,
+        "created_at": "2023-09-17T02:06:38.917Z",
+        "updated_at": "2023-09-17T11:05:59.276Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2865ccb-42e4-479a-9b0a-32cf2e6aa7b1",
+        "name": "Website Design",
+        "price_per_hour": 69431,
+        "created_at": "2023-09-17T09:44:36.041Z",
+        "updated_at": "2023-09-17T07:39:49.015Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c1980173-21b3-4ced-9ebc-ea8d5ed4febb",
+        "name": "Content Writing",
+        "price_per_hour": 52702,
+        "created_at": "2023-09-17T15:06:53.780Z",
+        "updated_at": "2023-09-17T05:34:02.596Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2cf1da8b-4029-400d-9314-8cd274310e98",
+        "name": "Search Engine Optimization",
+        "price_per_hour": 59188,
+        "created_at": "2023-09-17T18:22:19.220Z",
+        "updated_at": "2023-09-17T14:08:29.337Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f9ddec9d-eaaa-49e0-88b4-766c0c0f7235",
+        "name": "Graphic Design",
+        "price_per_hour": 60264,
+        "created_at": "2023-09-17T19:03:04.189Z",
+        "updated_at": "2023-09-17T08:00:33.058Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "624b32c4-29a6-48e5-b2ea-0f819a6a3f06",
+        "email": "Keara_Emard@hotmail.com",
+        "firstName": "Rosalia",
+        "lastName": "Koch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78392732",
+        "tenantId": null
+      },
+      {
+        "reference": "914ec682-429f-4ff2-8ddd-796b736e3aa3",
+        "email": "Douglas_Hoeger@yahoo.com",
+        "firstName": "Jacinto",
+        "lastName": "Spencer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57939630",
+        "tenantId": null
+      },
+      {
+        "reference": "a1df68e0-38e3-4b6b-819b-aa27e1c898ec",
+        "email": "Maximilian4@hotmail.com",
+        "firstName": "Telly",
+        "lastName": "Konopelski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/89290002",
+        "tenantId": null
+      },
+      {
+        "reference": "623c1c5f-6df8-4134-a50e-97b036b77d41",
+        "email": "Maurine10@gmail.com",
+        "firstName": "Randal",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15481965",
+        "tenantId": null
+      },
+      {
+        "reference": "d79b5f6a-593a-4144-bf15-2411151ab90f",
+        "email": "Ron82@yahoo.com",
+        "firstName": "Guadalupe",
+        "lastName": "Medhurst",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78005766",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "9d7e4cf9-8318-42b8-b644-41e1c7eecb89",
+        "title": "Introduction to Machine Learning",
+        "duration": 29962,
+        "created_at": "2023-09-17T10:21:59.345Z",
+        "updated_at": "2023-09-17T14:41:00.849Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0d55f063-b4c1-482b-b7c5-eaeae787f1b7",
+        "title": "The Power of Storytelling in Marketing",
+        "duration": 89441,
+        "created_at": "2023-09-17T03:43:44.604Z",
+        "updated_at": "2023-09-17T04:49:05.408Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0732c4d7-a275-44c1-86fb-2232a1acbe41",
+        "title": "Effective Leadership Strategies",
+        "duration": 22297,
+        "created_at": "2023-09-17T09:23:29.082Z",
+        "updated_at": "2023-09-17T16:54:41.926Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8ba097b0-5316-430f-a5bd-ce99eee95821",
+        "title": "Exploring the Wonders of Nature",
+        "duration": 19223,
+        "created_at": "2023-09-17T15:24:40.096Z",
+        "updated_at": "2023-09-17T09:13:21.337Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9f25272c-18eb-45e7-894e-e589f39c31c0",
+        "title": "Mastering the Art of Photography",
+        "duration": 61040,
+        "created_at": "2023-09-17T10:21:49.592Z",
+        "updated_at": "2023-09-17T19:21:45.907Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "b2efec35-f9cb-4a75-9e13-9cf27573e2d4",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-17T12:40:43.248Z",
+        "updated_at": "2023-09-17T10:48:38.525Z",
+        "video_id": "8ba097b0-5316-430f-a5bd-ce99eee95821"
+      },
+      {
+        "id": "1789c881-b65c-48b4-9df1-c76656bf4c8c",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+        "created_at": "2023-09-17T10:43:55.881Z",
+        "updated_at": "2023-09-17T19:27:22.314Z",
+        "video_id": "0732c4d7-a275-44c1-86fb-2232a1acbe41"
+      },
+      {
+        "id": "aa9d8286-d09d-4e3c-a374-48fce7eec2f6",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus.",
+        "created_at": "2023-09-17T19:44:39.061Z",
+        "updated_at": "2023-09-16T22:25:03.230Z",
+        "video_id": "0732c4d7-a275-44c1-86fb-2232a1acbe41"
+      },
+      {
+        "id": "1d9016ad-1d9a-48cc-b0ce-38dcbb411de6",
+        "content": "Eaque ipsa quae ab illo inventore veritatis et quasi architecto.",
+        "created_at": "2023-09-17T12:43:08.728Z",
+        "updated_at": "2023-09-17T13:14:26.703Z",
+        "video_id": "8ba097b0-5316-430f-a5bd-ce99eee95821"
+      },
+      {
+        "id": "eba12d29-c5bc-4ac4-95ce-fb6a0abbf456",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+        "created_at": "2023-09-17T17:28:17.429Z",
+        "updated_at": "2023-09-17T12:20:46.452Z",
+        "video_id": "0d55f063-b4c1-482b-b7c5-eaeae787f1b7"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "f813e7be-2908-49f1-a21c-ca35f8e3496a",
+        "name": "Basic Plan",
+        "price_per_hour": 11490,
+        "max_hours": 74359,
+        "created_at": "2023-09-17T05:17:29.846Z",
+        "updated_at": "2023-09-17T11:39:08.069Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bb06692f-a54c-4021-94b0-6d05ac4b37e5",
+        "name": "Premium Plan",
+        "price_per_hour": 49956,
+        "max_hours": 85827,
+        "created_at": "2023-09-17T15:38:00.487Z",
+        "updated_at": "2023-09-17T20:54:43.103Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a1bfa8cd-6d56-4614-ad0a-ab13dc1ed586",
+        "name": "Enterprise Plan",
+        "price_per_hour": 31037,
+        "max_hours": 46638,
+        "created_at": "2023-09-17T17:53:37.949Z",
+        "updated_at": "2023-09-17T07:13:01.455Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "178a49ab-3936-4bbe-b892-0e144f41181c",
+        "name": "Starter Plan",
+        "price_per_hour": 86365,
+        "max_hours": 40670,
+        "created_at": "2023-09-17T11:58:58.947Z",
+        "updated_at": "2023-09-17T11:29:18.936Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "76608252-3ba5-4b60-ab5a-83a8f84d24ef",
+        "name": "Pro Plan",
+        "price_per_hour": 15365,
+        "max_hours": 70682,
+        "created_at": "2023-09-17T13:10:24.620Z",
+        "updated_at": "2023-09-17T11:04:55.630Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "cb38028c-b8a0-41c7-b377-1b5c100a8919",
+        "name": "SEO Optimization",
+        "price_per_hour": 62071,
+        "created_at": "2023-09-17T19:10:32.688Z",
+        "updated_at": "2023-09-17T08:15:58.970Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4d4a9fed-b372-4dad-b680-a0eb6d578c71",
+        "name": "Social Media Management",
+        "price_per_hour": 56750,
+        "created_at": "2023-09-17T21:17:04.033Z",
+        "updated_at": "2023-09-17T08:58:30.524Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "16379704-d83d-4d16-9142-8bc89834ec48",
+        "name": "Content Writing",
+        "price_per_hour": 7076,
+        "created_at": "2023-09-16T22:49:23.845Z",
+        "updated_at": "2023-09-17T18:19:33.547Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6455607c-f671-44b0-9d08-1f5b2af00682",
+        "name": "Graphic Design",
+        "price_per_hour": 83982,
+        "created_at": "2023-09-17T08:34:57.227Z",
+        "updated_at": "2023-09-17T16:59:30.582Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3ce90889-afc2-41da-96f8-6bd396a6a262",
+        "name": "Website Development",
+        "price_per_hour": 4660,
+        "created_at": "2023-09-17T10:37:01.842Z",
+        "updated_at": "2023-09-17T06:46:58.877Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "859afa71-d690-4c6c-8331-ffadd1924f41",
+        "email": "Pauline.Ratke@yahoo.com",
+        "firstName": "Thelma",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61035719",
+        "tenantId": null
+      },
+      {
+        "reference": "d0dca3d3-e144-4645-bee2-4383cf9c36a8",
+        "email": "America32@gmail.com",
+        "firstName": "Zaria",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/690.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "48051a30-647e-47b5-8a81-b20fb1f6c809",
+        "email": "Tommie_Champlin@hotmail.com",
+        "firstName": "Elza",
+        "lastName": "Graham",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1070.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "47bbf170-5677-4af8-bdbe-eca8b4523c33",
+        "email": "Geovanni_Schultz77@yahoo.com",
+        "firstName": "Raymond",
+        "lastName": "Goyette",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/90.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "003aa6da-fb39-47c1-9b80-825c967c9dff",
+        "email": "Glennie15@yahoo.com",
+        "firstName": "Precious",
+        "lastName": "Bode",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1107.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "886b1f3e-a4b1-4956-9114-16129b04c597",
+        "title": "Introduction to Machine Learning",
+        "duration": 5543,
+        "created_at": "2023-09-17T08:37:44.715Z",
+        "updated_at": "2023-09-17T15:55:02.462Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7f753c2f-436c-4770-8c7a-0b0ce2ff47a8",
+        "title": "Exploring the Grand Canyon",
+        "duration": 50450,
+        "created_at": "2023-09-17T20:39:28.581Z",
+        "updated_at": "2023-09-17T11:03:10.730Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7f1b9c02-ea19-41e6-af38-722449fcec08",
+        "title": "Cooking with Chef Julia",
+        "duration": 59514,
+        "created_at": "2023-09-17T16:58:43.052Z",
+        "updated_at": "2023-09-17T21:31:38.610Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "423a508a-60c0-439c-af85-52143b89cbcf",
+        "title": "Yoga for Beginners",
+        "duration": 17616,
+        "created_at": "2023-09-17T12:32:21.975Z",
+        "updated_at": "2023-09-17T00:01:07.641Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aa9262ad-a72d-43e1-bf8f-0f95bea08dfc",
+        "title": "The Art of Photography",
+        "duration": 40636,
+        "created_at": "2023-09-17T09:18:45.348Z",
+        "updated_at": "2023-09-17T17:58:13.992Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "b5faf19c-a164-42c5-824f-81c8fb1a038b",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+        "created_at": "2023-09-17T03:29:03.172Z",
+        "updated_at": "2023-09-17T04:18:56.120Z",
+        "video_id": "886b1f3e-a4b1-4956-9114-16129b04c597"
+      },
+      {
+        "id": "c949d600-dae5-4d1a-a0a9-1d6db15ac20c",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+        "created_at": "2023-09-17T01:44:05.931Z",
+        "updated_at": "2023-09-17T13:39:48.027Z",
+        "video_id": "7f753c2f-436c-4770-8c7a-0b0ce2ff47a8"
+      },
+      {
+        "id": "ea6c6378-3d40-479a-a7bc-6fd7dab86b69",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus",
+        "created_at": "2023-09-17T07:11:41.430Z",
+        "updated_at": "2023-09-17T19:41:07.782Z",
+        "video_id": "886b1f3e-a4b1-4956-9114-16129b04c597"
+      },
+      {
+        "id": "1ac12fc0-0154-44e5-b242-2300dfe32dfc",
+        "content": "Nam libero tempore, cum soluta nobis est eligendi",
+        "created_at": "2023-09-17T03:11:37.929Z",
+        "updated_at": "2023-09-17T00:18:53.520Z",
+        "video_id": "aa9262ad-a72d-43e1-bf8f-0f95bea08dfc"
+      },
+      {
+        "id": "5b5d15e2-afe8-423f-9bd0-df6f5c13e264",
+        "content": "Et harum quidem rerum facilis est et expedita distinctio",
+        "created_at": "2023-09-17T09:56:37.364Z",
+        "updated_at": "2023-09-17T10:44:18.671Z",
+        "video_id": "7f753c2f-436c-4770-8c7a-0b0ce2ff47a8"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "50b2784a-b1c8-4300-a6b4-b2b00e13c632",
+        "name": "Basic Plan",
+        "price_per_hour": 68527,
+        "max_hours": 32185,
+        "created_at": "2023-09-17T15:43:12.347Z",
+        "updated_at": "2023-09-17T04:25:39.877Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f59d245b-541e-45c5-9460-967d2900ea29",
+        "name": "Premium Plan",
+        "price_per_hour": 28540,
+        "max_hours": 47248,
+        "created_at": "2023-09-17T05:54:37.397Z",
+        "updated_at": "2023-09-17T08:46:13.854Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cc416ec9-b058-4996-9da3-a766b0861151",
+        "name": "Business Plan",
+        "price_per_hour": 68737,
+        "max_hours": 37532,
+        "created_at": "2023-09-17T04:50:57.352Z",
+        "updated_at": "2023-09-16T23:31:11.585Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cae88838-1140-4900-ba06-dbefba162ed4",
+        "name": "Enterprise Plan",
+        "price_per_hour": 85115,
+        "max_hours": 37920,
+        "created_at": "2023-09-17T16:13:17.766Z",
+        "updated_at": "2023-09-17T21:30:30.214Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e322ca51-dff4-4f70-9d0a-729f0c34c7b3",
+        "name": "Pro Plan",
+        "price_per_hour": 16586,
+        "max_hours": 45377,
+        "created_at": "2023-09-17T11:45:04.863Z",
+        "updated_at": "2023-09-17T08:13:55.957Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "a7c5ef13-5eff-4803-b4cc-f2f6d06ad774",
+        "name": "Data Analysis",
+        "price_per_hour": 76478,
+        "created_at": "2023-09-17T05:04:35.842Z",
+        "updated_at": "2023-09-17T14:49:03.703Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0752d8cf-a6b0-4fd4-b52a-f7d650d73845",
+        "name": "Content Writing",
+        "price_per_hour": 22495,
+        "created_at": "2023-09-17T15:27:43.067Z",
+        "updated_at": "2023-09-17T18:26:48.999Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f2caa06b-cd50-4108-b36c-7a7f25b27206",
+        "name": "Graphic Design",
+        "price_per_hour": 26372,
+        "created_at": "2023-09-17T08:13:26.270Z",
+        "updated_at": "2023-09-17T21:43:11.015Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "419eb545-67fc-49b8-ba20-a06f834a2321",
+        "name": "Social Media Marketing",
+        "price_per_hour": 564,
+        "created_at": "2023-09-17T06:50:56.504Z",
+        "updated_at": "2023-09-17T11:52:49.590Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5dfc3ea0-e266-4499-b005-db804e171512",
+        "name": "Website Development",
+        "price_per_hour": 22227,
+        "created_at": "2023-09-17T14:12:31.121Z",
+        "updated_at": "2023-09-17T18:02:52.103Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6d2c5fe4-0846-4f88-9567-f3879add3a9a",
+        "email": "Brandt55@hotmail.com",
+        "firstName": "Carmine",
+        "lastName": "Keebler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/700.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9e3fc3cf-6e93-4873-90a5-b02e4b707dcd",
+        "email": "Josefa_Frami63@hotmail.com",
+        "firstName": "Guadalupe",
+        "lastName": "Kuhn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/73.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2a65d78d-d10b-4746-8e1f-d9dbc0fef96a",
+        "email": "Shanny78@yahoo.com",
+        "firstName": "Eda",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14398631",
+        "tenantId": null
+      },
+      {
+        "reference": "0dcc9548-818a-418e-9543-2ffc54ec15f4",
+        "email": "Chanel.Johns@hotmail.com",
+        "firstName": "Jonathan",
+        "lastName": "Streich",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1012.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c5867d53-9896-4b2e-bd14-1ead40095613",
+        "email": "Reginald_Nikolaus17@gmail.com",
+        "firstName": "Jacynthe",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/274.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "c45986d9-af86-4f5b-af59-b007b9eb7849",
+        "title": "Introduction to Machine Learning",
+        "duration": 28527,
+        "created_at": "2023-09-17T20:51:17.132Z",
+        "updated_at": "2023-09-17T21:24:00.206Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f1fbae0-d59a-40d2-b1d0-6790581428db",
+        "title": "The Art of Photography",
+        "duration": 58317,
+        "created_at": "2023-09-17T06:22:17.799Z",
+        "updated_at": "2023-09-17T04:11:53.149Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0b6c8430-e3a2-4efa-b075-4b4beefe34fc",
+        "title": "Cooking with Chef Michael",
+        "duration": 82987,
+        "created_at": "2023-09-17T21:26:48.893Z",
+        "updated_at": "2023-09-17T03:55:20.099Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "09148ce1-8752-4d4a-802c-4bb020806ecb",
+        "title": "Yoga for Beginners",
+        "duration": 64753,
+        "created_at": "2023-09-17T22:03:25.885Z",
+        "updated_at": "2023-09-17T01:57:39.400Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "71c014ef-81e8-4a57-93c6-4312e45be526",
+        "title": "Exploring Ancient Civilizations",
+        "duration": 65809,
+        "created_at": "2023-09-16T23:50:01.944Z",
+        "updated_at": "2023-09-17T01:48:02.858Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "b759fe66-ceaa-4c8b-8732-be94f02b0703",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-17T07:05:47.371Z",
+        "updated_at": "2023-09-17T02:04:40.666Z",
+        "video_id": "4f1fbae0-d59a-40d2-b1d0-6790581428db"
+      },
+      {
+        "id": "0338b264-697c-4d83-8e13-47ab556b58e7",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-17T15:09:53.368Z",
+        "updated_at": "2023-09-17T17:40:20.298Z",
+        "video_id": "0b6c8430-e3a2-4efa-b075-4b4beefe34fc"
+      },
+      {
+        "id": "92e94240-4d01-4eab-992c-0a8408de64c3",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-17T03:15:11.804Z",
+        "updated_at": "2023-09-17T08:31:02.314Z",
+        "video_id": "71c014ef-81e8-4a57-93c6-4312e45be526"
+      },
+      {
+        "id": "dfcfa766-1f59-40f6-b4e4-6096a72a1ba5",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "created_at": "2023-09-17T14:38:51.203Z",
+        "updated_at": "2023-09-17T14:58:38.365Z",
+        "video_id": "71c014ef-81e8-4a57-93c6-4312e45be526"
+      },
+      {
+        "id": "c2fbf325-65e6-4c82-a3b1-56f51d2f6c02",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "created_at": "2023-09-17T20:44:54.369Z",
+        "updated_at": "2023-09-17T01:09:20.428Z",
+        "video_id": "09148ce1-8752-4d4a-802c-4bb020806ecb"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "17a0c287-d18c-4365-b627-19e964847751",
+        "name": "Basic Plan",
+        "price_per_hour": 50267,
+        "max_hours": 41528,
+        "created_at": "2023-09-17T18:32:58.970Z",
+        "updated_at": "2023-09-17T02:15:28.213Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ebd23f49-d49e-4fdd-b3a5-915d62560c6e",
+        "name": "Premium Plan",
+        "price_per_hour": 35124,
+        "max_hours": 875,
+        "created_at": "2023-09-17T18:55:00.207Z",
+        "updated_at": "2023-09-17T03:59:17.585Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1689bee7-4619-416c-873b-668c44563d00",
+        "name": "Business Plan",
+        "price_per_hour": 62355,
+        "max_hours": 10403,
+        "created_at": "2023-09-17T01:21:07.256Z",
+        "updated_at": "2023-09-16T22:56:01.754Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4ddb3089-bff5-4623-947e-632f9c0c29ee",
+        "name": "Enterprise Plan",
+        "price_per_hour": 23898,
+        "max_hours": 52099,
+        "created_at": "2023-09-17T19:05:20.022Z",
+        "updated_at": "2023-09-16T23:01:33.405Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d2c61bf0-42f1-4a9e-b806-ed91a26b6d41",
+        "name": "Ultimate Plan",
+        "price_per_hour": 74456,
+        "max_hours": 80683,
+        "created_at": "2023-09-17T15:49:34.446Z",
+        "updated_at": "2023-09-16T23:28:28.856Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "6f1271de-7082-4d85-b4a0-b846d1475f7c",
+        "name": "Website Design",
+        "price_per_hour": 54771,
+        "created_at": "2023-09-17T17:37:09.035Z",
+        "updated_at": "2023-09-17T11:38:53.945Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7bbb9d91-2307-4d42-8265-dec311ce1224",
+        "name": "Social Media Marketing",
+        "price_per_hour": 55555,
+        "created_at": "2023-09-17T13:23:24.148Z",
+        "updated_at": "2023-09-17T01:36:02.509Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "eedf9f10-2429-4cde-a2aa-8ccb04350117",
+        "name": "Content Writing",
+        "price_per_hour": 13971,
+        "created_at": "2023-09-17T12:36:23.342Z",
+        "updated_at": "2023-09-17T12:14:04.322Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5d795490-292a-4518-9ff9-015856d3d36f",
+        "name": "Graphic Design",
+        "price_per_hour": 90837,
+        "created_at": "2023-09-17T14:37:49.895Z",
+        "updated_at": "2023-09-16T23:21:21.247Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "aaf3b703-ebf4-41b1-9894-0e55cb218b7a",
+        "name": "Search Engine Optimization",
+        "price_per_hour": 992,
+        "created_at": "2023-09-17T13:20:17.303Z",
+        "updated_at": "2023-09-17T00:03:15.766Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "03903c09-2c12-4fb3-8902-8a4438362239",
+        "email": "Marc56@gmail.com",
+        "firstName": "Orie",
+        "lastName": "Price",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1032.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b0774c37-5f62-4f81-a3da-a4bcbc74f207",
+        "email": "Bailey.Gleichner87@yahoo.com",
+        "firstName": "Brielle",
+        "lastName": "Simonis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/48625535",
+        "tenantId": null
+      },
+      {
+        "reference": "2ac20014-f3a4-4da7-a3f2-830d0010a10b",
+        "email": "Heath27@yahoo.com",
+        "firstName": "Janis",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41150310",
+        "tenantId": null
+      },
+      {
+        "reference": "054144ec-9f56-477b-8367-d63b216451a1",
+        "email": "Delores_Mante89@yahoo.com",
+        "firstName": "Willie",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58867032",
+        "tenantId": null
+      },
+      {
+        "reference": "f5d05a32-b609-4694-b0ef-8770c8f2ba82",
+        "email": "Elinor.Jerde90@gmail.com",
+        "firstName": "Brooks",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/14025790",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "929f9c00-6fcb-4037-8076-ce158eab415f",
+        "title": "Introduction to Machine Learning",
+        "duration": 87476,
+        "created_at": "2023-09-17T13:51:14.611Z",
+        "updated_at": "2023-09-17T17:04:25.452Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a4d9797c-6a3d-4577-8daf-99b00cc680b2",
+        "title": "The Power of Collaboration",
+        "duration": 55024,
+        "created_at": "2023-09-17T01:45:43.970Z",
+        "updated_at": "2023-09-17T05:35:46.533Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bc03b3b6-8b92-4baa-86b6-8f166b4e6cd2",
+        "title": "Creating a Sustainable Future",
+        "duration": 10641,
+        "created_at": "2023-09-16T23:58:50.591Z",
+        "updated_at": "2023-09-17T22:14:15.381Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7bca7b3e-2fb4-4b4c-8fcf-314505d4018f",
+        "title": "Exploring Ancient Civilizations",
+        "duration": 43804,
+        "created_at": "2023-09-17T13:41:40.076Z",
+        "updated_at": "2023-09-17T04:22:07.166Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bac052eb-440e-491c-a7e4-9cb234e8eba5",
+        "title": "The Art of Cooking",
+        "duration": 43891,
+        "created_at": "2023-09-17T20:36:17.593Z",
+        "updated_at": "2023-09-17T15:06:29.763Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "37d52bb2-caeb-4a19-913e-e2775247e44e",
+        "content": "The quick brown fox jumps over the lazy dog",
+        "created_at": "2023-09-17T14:05:35.392Z",
+        "updated_at": "2023-09-17T05:28:11.267Z",
+        "video_id": "a4d9797c-6a3d-4577-8daf-99b00cc680b2"
+      },
+      {
+        "id": "979eab4a-b93d-441b-aae5-4c2914585dc1",
+        "content": "A journey of a thousand miles begins with a single step",
+        "created_at": "2023-09-17T14:25:29.860Z",
+        "updated_at": "2023-09-17T07:16:43.982Z",
+        "video_id": "7bca7b3e-2fb4-4b4c-8fcf-314505d4018f"
+      },
+      {
+        "id": "f9e67b05-faba-4f34-9c58-60a8899a898c",
+        "content": "In the midst of chaos, there is also opportunity",
+        "created_at": "2023-09-17T00:06:09.833Z",
+        "updated_at": "2023-09-17T16:53:09.669Z",
+        "video_id": "bc03b3b6-8b92-4baa-86b6-8f166b4e6cd2"
+      },
+      {
+        "id": "3612c414-dcdf-40ce-9910-ae655232809a",
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts",
+        "created_at": "2023-09-16T22:40:26.527Z",
+        "updated_at": "2023-09-17T21:35:47.285Z",
+        "video_id": "a4d9797c-6a3d-4577-8daf-99b00cc680b2"
+      },
+      {
+        "id": "a24012ef-6713-434f-9256-128c4a5eb59c",
+        "content": "Believe you can and you're halfway there",
+        "created_at": "2023-09-17T20:04:26.647Z",
+        "updated_at": "2023-09-17T06:36:08.244Z",
+        "video_id": "bac052eb-440e-491c-a7e4-9cb234e8eba5"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "4fb2525f-e1a5-4864-8a9b-8afe869c2f9a",
+        "name": "Basic Plan",
+        "price_per_hour": 97776,
+        "max_hours": 85428,
+        "created_at": "2023-09-17T19:21:03.146Z",
+        "updated_at": "2023-09-17T04:26:22.516Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f7de2623-bf3a-4c56-8e6e-22d9e1cf68f1",
+        "name": "Premium Plan",
+        "price_per_hour": 29306,
+        "max_hours": 70735,
+        "created_at": "2023-09-17T18:06:22.272Z",
+        "updated_at": "2023-09-17T17:21:00.871Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4ca9819e-a32b-4baa-9e0b-52716c99aad8",
+        "name": "Business Plan",
+        "price_per_hour": 61129,
+        "max_hours": 78913,
+        "created_at": "2023-09-17T18:03:15.535Z",
+        "updated_at": "2023-09-17T21:13:57.871Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bd23724d-468e-4381-a24c-981bbf8a1496",
+        "name": "Enterprise Plan",
+        "price_per_hour": 43998,
+        "max_hours": 10614,
+        "created_at": "2023-09-17T07:55:08.308Z",
+        "updated_at": "2023-09-17T05:12:12.266Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3e271800-c175-414e-96ad-05e8a1a72880",
+        "name": "Ultimate Plan",
+        "price_per_hour": 22290,
+        "max_hours": 59334,
+        "created_at": "2023-09-17T03:24:26.525Z",
+        "updated_at": "2023-09-17T08:37:55.861Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "35e74da0-e867-4c2f-a22f-bb3754e09126",
+        "name": "Data Analysis",
+        "price_per_hour": 12319,
+        "created_at": "2023-09-17T04:01:59.380Z",
+        "updated_at": "2023-09-17T06:02:25.001Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9b4edaad-40fe-447f-93c3-d40d2dc83ecd",
+        "name": "Content Writing",
+        "price_per_hour": 10658,
+        "created_at": "2023-09-17T03:35:28.137Z",
+        "updated_at": "2023-09-17T11:42:29.824Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "38174ad9-9869-444d-8f26-5f67991d6055",
+        "name": "Graphic Design",
+        "price_per_hour": 39203,
+        "created_at": "2023-09-17T15:37:11.309Z",
+        "updated_at": "2023-09-17T00:53:55.612Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "89849b59-553a-444b-9ffa-0a779e79b37c",
+        "name": "Social Media Marketing",
+        "price_per_hour": 55909,
+        "created_at": "2023-09-17T20:06:21.823Z",
+        "updated_at": "2023-09-17T07:27:34.315Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f5481ab4-5fd3-40ce-8ba8-2bce1beb2e78",
+        "name": "Website Development",
+        "price_per_hour": 95244,
+        "created_at": "2023-09-17T15:08:33.600Z",
+        "updated_at": "2023-09-17T12:43:40.365Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "a44fd698-2dc0-4279-8a09-3f9d8fdefd06",
+        "email": "Sarah.Cormier47@hotmail.com",
+        "firstName": "Juliet",
+        "lastName": "Bauch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/423.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b03d7970-426b-4ff4-b508-7c71e79348b7",
+        "email": "Orin.Will@hotmail.com",
+        "firstName": "Oda",
+        "lastName": "Ankunding-Dickens",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/896.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bfc2bafc-cb9a-4c3c-b68e-ee5f550963b1",
+        "email": "Emory42@yahoo.com",
+        "firstName": "Reed",
+        "lastName": "Auer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/270.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "157041ee-5215-4159-a6d5-ccbd007fbd25",
+        "email": "Yesenia80@yahoo.com",
+        "firstName": "Francisca",
+        "lastName": "Robel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29225660",
+        "tenantId": null
+      },
+      {
+        "reference": "a3ecf394-83cf-4170-9f79-a579a95f2315",
+        "email": "Wilburn.Jones69@hotmail.com",
+        "firstName": "Adolf",
+        "lastName": "Hilll",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1033.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "4b56ed72-b2e4-48ac-a0ac-bc86c00edb41",
+        "title": "Introduction to Machine Learning",
+        "duration": 7281,
+        "created_at": "2023-09-17T14:35:42.716Z",
+        "updated_at": "2023-09-17T16:31:32.014Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "adb5938b-515f-48a4-bf60-75eba95c7ab2",
+        "title": "Exploring Ancient Ruins",
+        "duration": 32975,
+        "created_at": "2023-09-17T04:26:28.386Z",
+        "updated_at": "2023-09-17T06:25:27.900Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "dd88904e-60cd-49f1-b5f1-d02675c24e71",
+        "title": "Cooking Masterclass: Italian Cuisine",
+        "duration": 32074,
+        "created_at": "2023-09-17T22:10:15.579Z",
+        "updated_at": "2023-09-17T06:12:25.817Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e012e2d0-d109-4d3c-a177-ced3141e59dc",
+        "title": "Yoga for Beginners",
+        "duration": 30554,
+        "created_at": "2023-09-17T10:58:03.976Z",
+        "updated_at": "2023-09-17T18:33:27.886Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "45ce35b9-5d32-4e68-bba8-3f40abe9bfbc",
+        "title": "Traveling Through Time: A Historical Journey",
+        "duration": 47546,
+        "created_at": "2023-09-17T13:37:21.065Z",
+        "updated_at": "2023-09-17T04:13:30.743Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "0ecd3ad7-6727-47b4-bec2-dd588a90979d",
+        "content": "The quick brown fox jumps over the lazy dog",
+        "created_at": "2023-09-17T09:14:10.586Z",
+        "updated_at": "2023-09-17T03:23:40.435Z",
+        "video_id": "dd88904e-60cd-49f1-b5f1-d02675c24e71"
+      },
+      {
+        "id": "7562577e-ca05-4e03-89a8-a24ad1731a8e",
+        "content": "The sky is blue and the sun is shining",
+        "created_at": "2023-09-17T13:49:57.568Z",
+        "updated_at": "2023-09-17T19:54:17.731Z",
+        "video_id": "4b56ed72-b2e4-48ac-a0ac-bc86c00edb41"
+      },
+      {
+        "id": "5bb81df6-ca12-4818-a529-6fd7be2599d9",
+        "content": "I love to read books and listen to music",
+        "created_at": "2023-09-17T15:08:46.758Z",
+        "updated_at": "2023-09-17T04:34:06.366Z",
+        "video_id": "e012e2d0-d109-4d3c-a177-ced3141e59dc"
+      },
+      {
+        "id": "eb678622-4666-422d-a051-111bc2bbeae7",
+        "content": "In my free time, I enjoy hiking and painting",
+        "created_at": "2023-09-17T18:38:44.709Z",
+        "updated_at": "2023-09-16T23:48:39.227Z",
+        "video_id": "dd88904e-60cd-49f1-b5f1-d02675c24e71"
+      },
+      {
+        "id": "8b82330b-8108-4ff6-8e3f-2378364f1312",
+        "content": "Learning new things is always exciting",
+        "created_at": "2023-09-17T01:39:50.363Z",
+        "updated_at": "2023-09-16T23:06:16.137Z",
+        "video_id": "e012e2d0-d109-4d3c-a177-ced3141e59dc"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "6a1cc1e2-64b1-4a3d-948d-833984426aa6",
+        "name": "Basic Plan",
+        "price_per_hour": 36818,
+        "max_hours": 60633,
+        "created_at": "2023-09-17T13:12:50.367Z",
+        "updated_at": "2023-09-17T19:14:36.528Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bba7c87a-4223-4398-8a6d-6063298de532",
+        "name": "Premium Plan",
+        "price_per_hour": 7294,
+        "max_hours": 14601,
+        "created_at": "2023-09-17T00:40:52.307Z",
+        "updated_at": "2023-09-17T16:49:58.101Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5f60781c-7535-4286-9010-d69e10973dec",
+        "name": "Business Plan",
+        "price_per_hour": 74795,
+        "max_hours": 66294,
+        "created_at": "2023-09-17T16:23:24.927Z",
+        "updated_at": "2023-09-17T16:03:02.472Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "35e93d9f-11ce-4343-83c9-26f7f1dd14dc",
+        "name": "Enterprise Plan",
+        "price_per_hour": 46337,
+        "max_hours": 25914,
+        "created_at": "2023-09-17T02:48:52.464Z",
+        "updated_at": "2023-09-17T20:46:23.221Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b76793b0-553e-4e3c-98d4-3d4383b350d9",
+        "name": "Ultimate Plan",
+        "price_per_hour": 97714,
+        "max_hours": 85770,
+        "created_at": "2023-09-17T15:53:32.351Z",
+        "updated_at": "2023-09-17T03:29:03.633Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "b895d75d-dc06-4d42-b419-bc5204fb30fa",
+        "name": "Data Analysis",
+        "price_per_hour": 36153,
+        "created_at": "2023-09-17T15:30:34.228Z",
+        "updated_at": "2023-09-17T20:05:50.273Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b328683b-3cb3-4b34-854c-d9edf1485a93",
+        "name": "Graphic Design",
+        "price_per_hour": 26558,
+        "created_at": "2023-09-17T19:22:03.594Z",
+        "updated_at": "2023-09-17T06:46:12.217Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "334a0c6a-cdeb-485f-a298-ff5a7010d8a5",
+        "name": "Social Media Marketing",
+        "price_per_hour": 55915,
+        "created_at": "2023-09-17T09:48:45.947Z",
+        "updated_at": "2023-09-17T20:34:56.638Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2296f08f-4901-46e6-9532-58f2d755f0d5",
+        "name": "Website Development",
+        "price_per_hour": 42565,
+        "created_at": "2023-09-17T13:21:45.175Z",
+        "updated_at": "2023-09-17T03:00:49.997Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3c7761c4-7a32-4477-a159-b69efea60d95",
+        "name": "Content Writing",
+        "price_per_hour": 80668,
+        "created_at": "2023-09-17T02:36:42.648Z",
+        "updated_at": "2023-09-17T09:28:42.323Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "2a93cc7e-6d76-4876-b908-367bf5cb20ec",
+        "email": "Eldora_Schaefer@yahoo.com",
+        "firstName": "Juana",
+        "lastName": "Torphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/464.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e21b1aa1-dfa3-46ef-a48d-6ef56ae7f3df",
+        "email": "Kailee71@yahoo.com",
+        "firstName": "Linnie",
+        "lastName": "Hoeger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1209.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "843fb6b9-7aab-4f2e-99ac-58ef3a9b8969",
+        "email": "Liza_Bayer86@yahoo.com",
+        "firstName": "Thelma",
+        "lastName": "Walsh",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/149.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "3344a801-ed33-4435-91a5-ba1454806643",
+        "email": "Damon_Prohaska23@gmail.com",
+        "firstName": "Amy",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/37.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0fd1706d-51b1-417f-964d-fefbfae4a465",
+        "email": "Khalid_Harber62@yahoo.com",
+        "firstName": "Carlotta",
+        "lastName": "Flatley",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75560064",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "9bb403b8-ab42-4802-b5b5-89491df8b215",
+        "title": "Introduction to Machine Learning",
+        "duration": 20130,
+        "created_at": "2023-09-17T01:11:52.533Z",
+        "updated_at": "2023-09-17T06:48:26.788Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8ca48e3f-0273-4288-86dd-3180482886bd",
+        "title": "The Importance of Exercise",
+        "duration": 83042,
+        "created_at": "2023-09-17T02:14:47.442Z",
+        "updated_at": "2023-09-17T17:41:22.533Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "87b78dc4-d989-412f-bb3c-57417cc1c151",
+        "title": "Effective Communication Strategies",
+        "duration": 7188,
+        "created_at": "2023-09-17T10:15:51.395Z",
+        "updated_at": "2023-09-17T11:54:59.340Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7cfed9e0-983b-4497-965f-9696498eac11",
+        "title": "Exploring Ancient Civilizations",
+        "duration": 39340,
+        "created_at": "2023-09-17T14:43:57.933Z",
+        "updated_at": "2023-09-17T02:05:37.115Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "82010626-36aa-4bd8-9349-7054d9333c37",
+        "title": "Creating a Healthy Work-Life Balance",
+        "duration": 72587,
+        "created_at": "2023-09-17T19:00:21.890Z",
+        "updated_at": "2023-09-17T12:34:00.846Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "3d22a5e0-e232-4d98-8879-6b8f8671f741",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "created_at": "2023-09-17T08:12:30.890Z",
+        "updated_at": "2023-09-17T21:38:51.153Z",
+        "video_id": "87b78dc4-d989-412f-bb3c-57417cc1c151"
+      },
+      {
+        "id": "5971efa4-509f-4835-9baf-fa527fb6c9f8",
+        "content": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium.",
+        "created_at": "2023-09-17T17:02:40.891Z",
+        "updated_at": "2023-09-17T17:48:45.901Z",
+        "video_id": "7cfed9e0-983b-4497-965f-9696498eac11"
+      },
+      {
+        "id": "0bbe5f6a-6fa3-40fc-b4c0-7cf41dc430fb",
+        "content": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+        "created_at": "2023-09-17T06:31:16.731Z",
+        "updated_at": "2023-09-17T07:13:43.523Z",
+        "video_id": "87b78dc4-d989-412f-bb3c-57417cc1c151"
+      },
+      {
+        "id": "c76a1e79-a0fc-4dbe-9ab8-560dfbf1b07f",
+        "content": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+        "created_at": "2023-09-17T06:58:15.337Z",
+        "updated_at": "2023-09-17T07:52:10.242Z",
+        "video_id": "7cfed9e0-983b-4497-965f-9696498eac11"
+      },
+      {
+        "id": "1d5077d3-727e-44e9-bbe5-a126a6bfa2de",
+        "content": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.",
+        "created_at": "2023-09-17T08:41:06.805Z",
+        "updated_at": "2023-09-17T07:43:44.823Z",
+        "video_id": "87b78dc4-d989-412f-bb3c-57417cc1c151"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "811a197d-6e53-4d19-8aca-06c24ab4891a",
+        "name": "Basic Plan",
+        "price_per_hour": 71699,
+        "max_hours": 48066,
+        "created_at": "2023-09-17T09:34:15.480Z",
+        "updated_at": "2023-09-16T23:00:25.822Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cde453d7-a4d9-437f-8690-608ad9cb8ebb",
+        "name": "Premium Plan",
+        "price_per_hour": 99102,
+        "max_hours": 10737,
+        "created_at": "2023-09-17T21:48:30.006Z",
+        "updated_at": "2023-09-17T02:27:52.543Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cd4e7c1d-3a3e-42ef-a2aa-fb6c831f5916",
+        "name": "Business Plan",
+        "price_per_hour": 12808,
+        "max_hours": 80058,
+        "created_at": "2023-09-17T17:48:05.873Z",
+        "updated_at": "2023-09-17T00:52:14.393Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "582c4e71-b2e8-43ac-a77d-239a8363fadc",
+        "name": "Enterprise Plan",
+        "price_per_hour": 53867,
+        "max_hours": 24206,
+        "created_at": "2023-09-17T19:29:49.690Z",
+        "updated_at": "2023-09-17T12:53:29.336Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2bfa6776-8b67-46e0-8989-1470190c0483",
+        "name": "Ultimate Plan",
+        "price_per_hour": 89716,
+        "max_hours": 63804,
+        "created_at": "2023-09-17T05:49:35.259Z",
+        "updated_at": "2023-09-17T10:52:48.812Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "9c542e65-880c-42e0-93a7-f10c9496aa54",
+        "name": "Website Design",
+        "price_per_hour": 72539,
+        "created_at": "2023-09-17T21:24:17.057Z",
+        "updated_at": "2023-09-17T17:09:51.564Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d7f9b501-ce15-46d2-98f6-26cee1e7020a",
+        "name": "Social Media Marketing",
+        "price_per_hour": 44204,
+        "created_at": "2023-09-17T02:57:59.683Z",
+        "updated_at": "2023-09-17T08:34:23.646Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fcf08c28-d914-4f60-bd65-8462fa583a16",
+        "name": "Content Writing",
+        "price_per_hour": 44219,
+        "created_at": "2023-09-17T20:36:02.844Z",
+        "updated_at": "2023-09-17T19:45:05.731Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8c654ae4-54c3-4286-a937-3a81f2553353",
+        "name": "Graphic Design",
+        "price_per_hour": 76317,
+        "created_at": "2023-09-17T08:15:25.299Z",
+        "updated_at": "2023-09-17T02:55:19.749Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f415a9a5-b4d8-4aa3-8261-0e63e50a22ae",
+        "name": "Search Engine Optimization",
+        "price_per_hour": 83297,
+        "created_at": "2023-09-17T08:25:42.978Z",
+        "updated_at": "2023-09-17T05:18:02.402Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d4e4fd28-f8c3-4acd-ab6b-354e763ea940",
+        "email": "Sylvan12@gmail.com",
+        "firstName": "Bennie",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78439707",
+        "tenantId": null
+      },
+      {
+        "reference": "84a22e4f-344f-43be-94b5-050bf432eb0a",
+        "email": "Talon24@gmail.com",
+        "firstName": "Claudine",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72934253",
+        "tenantId": null
+      },
+      {
+        "reference": "2197bdf1-8397-487b-9581-ca92d0236a63",
+        "email": "Rodolfo90@gmail.com",
+        "firstName": "Laverna",
+        "lastName": "Nitzsche",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/20.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "018948dc-484e-4853-aa98-f8a2c5ac0c47",
+        "email": "Franz45@yahoo.com",
+        "firstName": "Vella",
+        "lastName": "Kohler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/689.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7b71c4c4-afbf-4bbd-b5af-06a063376d7a",
+        "email": "Robyn.Bosco83@hotmail.com",
+        "firstName": "Adah",
+        "lastName": "Hegmann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65298490",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "2961e6c5-7d4f-4329-acce-8f0a709086ef",
+        "title": "Introduction to Machine Learning",
+        "duration": 14855,
+        "created_at": "2023-09-17T09:55:07.064Z",
+        "updated_at": "2023-09-17T06:05:09.175Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "681783c7-b337-426f-a2e1-aba12d088871",
+        "title": "The Power of Collaboration",
+        "duration": 67300,
+        "created_at": "2023-09-17T21:24:52.090Z",
+        "updated_at": "2023-09-17T02:36:10.116Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b217e4c3-a85e-4511-af99-83c92edeaeac",
+        "title": "Exploring Ancient Ruins",
+        "duration": 78815,
+        "created_at": "2023-09-17T14:02:39.675Z",
+        "updated_at": "2023-09-17T00:05:00.311Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "19c93004-bd69-4c19-aa0d-7ca172e0e7f3",
+        "title": "Cooking with Fresh Ingredients",
+        "duration": 20572,
+        "created_at": "2023-09-17T17:32:09.414Z",
+        "updated_at": "2023-09-17T03:28:34.117Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "07deb663-527d-4122-a8fb-77ff0549f3c0",
+        "title": "Mastering the Guitar",
+        "duration": 19858,
+        "created_at": "2023-09-17T10:56:20.619Z",
+        "updated_at": "2023-09-17T08:35:35.560Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "b231d5be-961e-41ed-ac86-fde67bad23cc",
+        "content": "The quick brown fox jumps over the lazy dog",
+        "created_at": "2023-09-17T00:01:08.839Z",
+        "updated_at": "2023-09-17T17:23:11.518Z",
+        "video_id": "b217e4c3-a85e-4511-af99-83c92edeaeac"
+      },
+      {
+        "id": "d43ebf50-d86b-4de7-a983-d8c27da86646",
+        "content": "A journey of a thousand miles begins with a single step",
+        "created_at": "2023-09-16T23:10:03.255Z",
+        "updated_at": "2023-09-17T00:08:50.635Z",
+        "video_id": "b217e4c3-a85e-4511-af99-83c92edeaeac"
+      },
+      {
+        "id": "9bb00aac-d0ff-4a94-8471-937cb3865cd3",
+        "content": "Success is not final, failure is not fatal: It is the courage to continue that counts",
+        "created_at": "2023-09-17T16:53:48.551Z",
+        "updated_at": "2023-09-17T13:56:57.741Z",
+        "video_id": "2961e6c5-7d4f-4329-acce-8f0a709086ef"
+      },
+      {
+        "id": "260c4e7c-6631-48a4-bfeb-b5ec86fdeca6",
+        "content": "In the middle of difficulty lies opportunity",
+        "created_at": "2023-09-17T11:59:12.715Z",
+        "updated_at": "2023-09-17T13:28:30.102Z",
+        "video_id": "19c93004-bd69-4c19-aa0d-7ca172e0e7f3"
+      },
+      {
+        "id": "468405be-fe6a-4b0e-bb63-be61b064802e",
+        "content": "Believe you can and you're halfway there",
+        "created_at": "2023-09-16T23:50:48.571Z",
+        "updated_at": "2023-09-17T13:13:54.562Z",
+        "video_id": "b217e4c3-a85e-4511-af99-83c92edeaeac"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "6797f548-4659-4847-962f-1a6fffdfef19",
+        "name": "Basic Plan",
+        "price_per_hour": 33901,
+        "max_hours": 61005,
+        "created_at": "2023-09-17T01:12:41.250Z",
+        "updated_at": "2023-09-17T08:02:10.334Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d42e37f6-ae74-4240-8820-188fb708c1ac",
+        "name": "Premium Plan",
+        "price_per_hour": 60310,
+        "max_hours": 1193,
+        "created_at": "2023-09-17T22:22:10.849Z",
+        "updated_at": "2023-09-17T00:59:08.636Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2e253049-8c6a-47b8-9a0b-e3de9d48a970",
+        "name": "Business Plan",
+        "price_per_hour": 45569,
+        "max_hours": 43922,
+        "created_at": "2023-09-17T17:56:03.134Z",
+        "updated_at": "2023-09-17T04:46:18.344Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4b0dbef9-d13c-4f1b-b4b0-f23754ec2d48",
+        "name": "Enterprise Plan",
+        "price_per_hour": 89205,
+        "max_hours": 62773,
+        "created_at": "2023-09-17T16:21:06.006Z",
+        "updated_at": "2023-09-17T00:54:12.089Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "235da426-87d8-4592-9445-e390303797d4",
+        "name": "Ultimate Plan",
+        "price_per_hour": 95990,
+        "max_hours": 7601,
+        "created_at": "2023-09-17T07:48:16.888Z",
+        "updated_at": "2023-09-17T19:07:08.192Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "49fa24f9-bc1f-44dd-95a8-2c1a1318e5c7",
+        "name": "Data Analysis",
+        "price_per_hour": 51346,
+        "created_at": "2023-09-17T01:04:25.826Z",
+        "updated_at": "2023-09-17T10:03:04.376Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "165b54a8-a4e6-49ba-a373-857d4d5392cb",
+        "name": "Graphic Design",
+        "price_per_hour": 8946,
+        "created_at": "2023-09-17T05:21:16.789Z",
+        "updated_at": "2023-09-17T10:57:21.147Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7da9f80a-f4eb-4daf-9e0d-705018ff17ca",
+        "name": "Content Writing",
+        "price_per_hour": 8806,
+        "created_at": "2023-09-17T07:33:27.573Z",
+        "updated_at": "2023-09-17T12:53:11.202Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ffeb78bc-2dd1-4cdc-a511-864b41a171c9",
+        "name": "Social Media Management",
+        "price_per_hour": 22219,
+        "created_at": "2023-09-17T01:45:07.066Z",
+        "updated_at": "2023-09-17T17:13:42.819Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "177c85a7-36ea-40e7-9a05-cbc80a6615b7",
+        "name": "Website Development",
+        "price_per_hour": 58314,
+        "created_at": "2023-09-17T16:35:33.428Z",
+        "updated_at": "2023-09-17T11:49:12.199Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fa95dc62-c16e-4ea1-bfcc-01cc0537f7d0",
+        "email": "Linwood23@yahoo.com",
+        "firstName": "Jermain",
+        "lastName": "Hettinger",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1032.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2f009e7c-d14a-42ca-a83d-6da49fababee",
+        "email": "Ally.Schinner58@yahoo.com",
+        "firstName": "Alene",
+        "lastName": "Berge",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90668219",
+        "tenantId": null
+      },
+      {
+        "reference": "072120d3-d1b7-4cc5-80bb-048a39e04b60",
+        "email": "Mabel.Koss53@hotmail.com",
+        "firstName": "Helen",
+        "lastName": "Weimann",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/54746489",
+        "tenantId": null
+      },
+      {
+        "reference": "47ac267e-70aa-47f7-bfae-df218558222e",
+        "email": "Amiya.Rohan83@hotmail.com",
+        "firstName": "Isai",
+        "lastName": "Sanford",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64477330",
+        "tenantId": null
+      },
+      {
+        "reference": "8c22791d-db86-4306-9cee-53dd8576aafa",
+        "email": "Justus_Hayes41@hotmail.com",
+        "firstName": "Marcia",
+        "lastName": "DuBuque",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/95272100",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "35d4489f-7b2a-47e6-aa5a-3771be2f0bf2",
+        "title": "Introduction to Machine Learning",
+        "duration": 39072,
+        "created_at": "2023-09-17T15:35:34.105Z",
+        "updated_at": "2023-09-17T11:38:43.187Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ac1542d7-ad69-4e68-b9d0-ac85bd38e63d",
+        "title": "The Art of Negotiation",
+        "duration": 76518,
+        "created_at": "2023-09-17T00:20:43.639Z",
+        "updated_at": "2023-09-17T11:09:11.172Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "17a0604d-2852-4136-9491-c72ed19ed629",
+        "title": "Exploring Ancient Civilizations",
+        "duration": 80701,
+        "created_at": "2023-09-17T19:41:44.502Z",
+        "updated_at": "2023-09-17T03:28:38.265Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9dec8c0c-116e-408a-adb6-300957b9fa33",
+        "title": "Mastering the Guitar",
+        "duration": 82906,
+        "created_at": "2023-09-17T22:22:01.153Z",
+        "updated_at": "2023-09-17T21:01:38.889Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "61421e64-e292-439f-86a7-5beef74198e2",
+        "title": "Cooking with Flavors",
+        "duration": 28723,
+        "created_at": "2023-09-17T09:06:37.367Z",
+        "updated_at": "2023-09-17T04:48:46.352Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "380beb9f-e206-4612-9f08-e3346bc725ed",
+        "content": "This is the transcription content 1",
+        "created_at": "2023-09-17T03:42:36.363Z",
+        "updated_at": "2023-09-17T14:52:47.087Z",
+        "video_id": "ac1542d7-ad69-4e68-b9d0-ac85bd38e63d"
+      },
+      {
+        "id": "10a47a71-6f47-455b-8b21-ff1f2fce260e",
+        "content": "This is the transcription content 2",
+        "created_at": "2023-09-17T14:05:17.344Z",
+        "updated_at": "2023-09-17T04:49:44.268Z",
+        "video_id": "17a0604d-2852-4136-9491-c72ed19ed629"
+      },
+      {
+        "id": "d1a5d3ff-8fb8-4658-80a5-a7fc2ccd276c",
+        "content": "This is the transcription content 3",
+        "created_at": "2023-09-17T12:58:23.928Z",
+        "updated_at": "2023-09-16T22:55:31.170Z",
+        "video_id": "17a0604d-2852-4136-9491-c72ed19ed629"
+      },
+      {
+        "id": "0f37b77d-c568-4906-9ff1-f0f5424cb244",
+        "content": "This is the transcription content 4",
+        "created_at": "2023-09-17T03:54:12.909Z",
+        "updated_at": "2023-09-17T17:00:07.746Z",
+        "video_id": "17a0604d-2852-4136-9491-c72ed19ed629"
+      },
+      {
+        "id": "3d8af89a-6800-44b4-84d0-17b8f4013870",
+        "content": "This is the transcription content 5",
+        "created_at": "2023-09-17T16:11:28.091Z",
+        "updated_at": "2023-09-17T07:15:01.421Z",
+        "video_id": "35d4489f-7b2a-47e6-aa5a-3771be2f0bf2"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "051e4414-bd5b-4253-bfc0-d5ce523cb241",
+        "name": "Basic Plan",
+        "price_per_hour": 57602,
+        "max_hours": 53387,
+        "created_at": "2023-09-17T02:02:21.290Z",
+        "updated_at": "2023-09-17T07:48:12.502Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "bde2f5ed-f9c5-4d2a-b624-a4e87fb6e125",
+        "name": "Premium Plan",
+        "price_per_hour": 9327,
+        "max_hours": 57519,
+        "created_at": "2023-09-17T07:12:11.886Z",
+        "updated_at": "2023-09-17T03:09:25.129Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "f84e2808-3356-4e0a-a6c0-0169f7da2960",
+        "name": "Enterprise Plan",
+        "price_per_hour": 95966,
+        "max_hours": 87395,
+        "created_at": "2023-09-17T13:45:05.742Z",
+        "updated_at": "2023-09-17T08:41:39.521Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fbce35ac-5060-4a89-b47a-6012b5eae3cd",
+        "name": "Starter Plan",
+        "price_per_hour": 13711,
+        "max_hours": 63667,
+        "created_at": "2023-09-17T09:29:41.446Z",
+        "updated_at": "2023-09-17T19:06:52.025Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9cb3b033-3790-40e5-91bf-429b4449ca80",
+        "name": "Pro Plan",
+        "price_per_hour": 70214,
+        "max_hours": 94747,
+        "created_at": "2023-09-16T22:29:50.598Z",
+        "updated_at": "2023-09-17T09:08:16.936Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "e3973ac1-23d2-42ec-acfc-103e72bc4588",
+        "name": "Data Analysis",
+        "price_per_hour": 90037,
+        "created_at": "2023-09-17T05:46:43.232Z",
+        "updated_at": "2023-09-17T05:00:28.621Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "14a634e4-6e3a-43a3-ad94-683fcbceed41",
+        "name": "Graphic Design",
+        "price_per_hour": 7113,
+        "created_at": "2023-09-17T19:58:52.850Z",
+        "updated_at": "2023-09-17T15:22:29.276Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2e364564-69fe-4187-9fde-df0fbb943f3c",
+        "name": "Social Media Management",
+        "price_per_hour": 15277,
+        "created_at": "2023-09-17T00:16:17.738Z",
+        "updated_at": "2023-09-17T15:26:25.903Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8b999615-11a6-4d58-a948-2ebbe65cc5f3",
+        "name": "Content Writing",
+        "price_per_hour": 40547,
+        "created_at": "2023-09-17T02:15:41.490Z",
+        "updated_at": "2023-09-17T03:44:33.731Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b024aa4-447b-42ba-8c7b-ec871e098f61",
+        "name": "Website Development",
+        "price_per_hour": 94173,
+        "created_at": "2023-09-17T21:43:46.574Z",
+        "updated_at": "2023-09-17T16:12:02.566Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b135ee77-3533-4c4c-903e-9d0a3e1e13ff",
+        "email": "Xzavier_Zboncak@gmail.com",
+        "firstName": "Manuel",
+        "lastName": "Collier",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/44.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "39591d84-294f-49e8-bc68-6b4700e62930",
+        "email": "Toy58@gmail.com",
+        "firstName": "Brenna",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/540.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6b642ae6-808c-4030-878a-7c4af3dc5565",
+        "email": "Jaleel.Rowe@yahoo.com",
+        "firstName": "Ivah",
+        "lastName": "Toy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/38.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "83a26e2b-805f-429e-bb2d-2d3ef2f6f74a",
+        "email": "Rosa89@hotmail.com",
+        "firstName": "Mittie",
+        "lastName": "Jenkins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/478.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "913d03dd-94a2-4c10-9655-746242902840",
+        "email": "Arvel_VonRueden6@gmail.com",
+        "firstName": "Sigurd",
+        "lastName": "Mohr",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56994290",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "video": [
+      {
+        "id": "f75c7de0-8e8f-4776-b992-7c1867e1179f",
+        "title": "Introduction to Python Programming",
+        "duration": 26111,
+        "created_at": "2023-09-17T10:34:36.567Z",
+        "updated_at": "2023-09-16T23:41:05.740Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b362cfb7-b7aa-4c43-9478-389945a2a4c8",
+        "title": "The Art of Photography",
+        "duration": 86438,
+        "created_at": "2023-09-17T05:52:29.023Z",
+        "updated_at": "2023-09-17T03:30:25.369Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "797d3891-3b97-4c1a-b492-93b406ebb20e",
+        "title": "Exploring Ancient Civilizations",
+        "duration": 53595,
+        "created_at": "2023-09-17T20:49:31.687Z",
+        "updated_at": "2023-09-17T06:52:20.282Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "62d7f5fb-9f2f-4c21-9be8-4127f726baca",
+        "title": "Mastering Guitar Techniques",
+        "duration": 28258,
+        "created_at": "2023-09-17T09:01:05.895Z",
+        "updated_at": "2023-09-17T01:18:54.853Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8c9b9cf8-ad4b-4329-a3a5-2e2a78febda7",
+        "title": "Cooking with Fresh Ingredients",
+        "duration": 192,
+        "created_at": "2023-09-17T18:15:21.160Z",
+        "updated_at": "2023-09-16T23:33:54.204Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "transcription": [
+      {
+        "id": "a1606199-0ac6-4e14-ad97-94f9fa9cebe6",
+        "content": "Lorem ipsum dolor sit amet",
+        "created_at": "2023-09-17T02:15:02.105Z",
+        "updated_at": "2023-09-17T10:17:03.254Z",
+        "video_id": "b362cfb7-b7aa-4c43-9478-389945a2a4c8"
+      },
+      {
+        "id": "23db953a-b884-4c2e-a4c4-4d8d56b8b46c",
+        "content": "Consectetur adipiscing elit",
+        "created_at": "2023-09-17T08:53:19.644Z",
+        "updated_at": "2023-09-17T09:09:03.184Z",
+        "video_id": "797d3891-3b97-4c1a-b492-93b406ebb20e"
+      },
+      {
+        "id": "f0e15dc0-1d21-4d1b-a247-e9c1d5695462",
+        "content": "Sed do eiusmod tempor incididunt",
+        "created_at": "2023-09-17T04:21:51.872Z",
+        "updated_at": "2023-09-16T22:38:04.801Z",
+        "video_id": "f75c7de0-8e8f-4776-b992-7c1867e1179f"
+      },
+      {
+        "id": "c3a01160-e79c-4a9e-afd1-c9b97e2b698a",
+        "content": "Ut labore et dolore magna aliqua",
+        "created_at": "2023-09-17T02:03:27.957Z",
+        "updated_at": "2023-09-17T00:09:55.713Z",
+        "video_id": "f75c7de0-8e8f-4776-b992-7c1867e1179f"
+      },
+      {
+        "id": "1d0eb2d8-c392-4474-b0a1-f44e8f182031",
+        "content": "Ut enim ad minim veniam",
+        "created_at": "2023-09-17T09:10:05.907Z",
+        "updated_at": "2023-09-17T09:39:03.769Z",
+        "video_id": "f75c7de0-8e8f-4776-b992-7c1867e1179f"
+      }
+    ],
+    "payment_plan": [
+      {
+        "id": "a7b262ee-58db-4c22-a04e-18b466134abd",
+        "name": "Basic Plan",
+        "price_per_hour": 15691,
+        "max_hours": 13183,
+        "created_at": "2023-09-17T01:16:32.357Z",
+        "updated_at": "2023-09-17T05:42:55.182Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "77615a7b-10db-40dd-b687-3a05c6b6a7b0",
+        "name": "Premium Plan",
+        "price_per_hour": 61546,
+        "max_hours": 11284,
+        "created_at": "2023-09-17T08:19:52.549Z",
+        "updated_at": "2023-09-16T23:17:52.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26e5ca10-1778-474b-9818-2b65d0d75fcf",
+        "name": "Enterprise Plan",
+        "price_per_hour": 94310,
+        "max_hours": 77464,
+        "created_at": "2023-09-17T06:37:18.172Z",
+        "updated_at": "2023-09-17T16:40:57.726Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "470ee12d-c885-4322-aec4-0d0448881578",
+        "name": "Starter Plan",
+        "price_per_hour": 31704,
+        "max_hours": 42801,
+        "created_at": "2023-09-17T22:17:01.778Z",
+        "updated_at": "2023-09-16T22:48:47.922Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "25768d61-f238-4666-a875-49cfe770217d",
+        "name": "Pro Plan",
+        "price_per_hour": 43665,
+        "max_hours": 84509,
+        "created_at": "2023-09-16T23:22:29.335Z",
+        "updated_at": "2023-09-17T01:20:39.499Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "additional_service": [
+      {
+        "id": "905db853-eefb-40bd-ac73-11e44b1c103e",
+        "name": "Data Analysis",
+        "price_per_hour": 68402,
+        "created_at": "2023-09-17T16:45:18.114Z",
+        "updated_at": "2023-09-17T21:36:18.204Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "38218ba3-865c-4f49-87a5-dfe9fba848ce",
+        "name": "Graphic Design",
+        "price_per_hour": 31942,
+        "created_at": "2023-09-17T18:14:34.651Z",
+        "updated_at": "2023-09-17T06:56:54.902Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7abc1620-436c-4bae-9981-1776e173f982",
+        "name": "Social Media Management",
+        "price_per_hour": 8774,
+        "created_at": "2023-09-17T00:08:08.673Z",
+        "updated_at": "2023-09-17T06:36:00.648Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "54031148-a7da-46fb-9053-61e2142ba348",
+        "name": "Content Writing",
+        "price_per_hour": 44089,
+        "created_at": "2023-09-16T22:40:10.873Z",
+        "updated_at": "2023-09-17T15:16:38.034Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cc1dbbde-2671-49e3-aa6c-0ef4f77ef82c",
+        "name": "Website Development",
+        "price_per_hour": 22320,
+        "created_at": "2023-09-17T07:46:48.431Z",
+        "updated_at": "2023-09-17T20:02:24.490Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "919355ba-f019-43f4-833c-cf145e1e2ec3",
+        "email": "Serenity_Considine52@hotmail.com",
+        "firstName": "Jaeden",
+        "lastName": "Wiegand",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24482224",
+        "tenantId": null
+      },
+      {
+        "reference": "d44bb3aa-460a-42eb-ad87-8b9f75e62610",
+        "email": "Stevie91@hotmail.com",
+        "firstName": "Casimer",
+        "lastName": "Mosciski-Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/58.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "72d77044-8cb4-47fa-8605-3b2745f0acc0",
+        "email": "Veda31@yahoo.com",
+        "firstName": "Damaris",
+        "lastName": "Kemmer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/350.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5cc48a8d-c992-4f36-b109-26f843c85fe4",
+        "email": "Nola.Feil@gmail.com",
+        "firstName": "Nathanael",
+        "lastName": "Wintheiser",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94471656",
+        "tenantId": null
+      },
+      {
+        "reference": "7ef4d403-d1dd-4607-b91e-2134e14215e9",
+        "email": "Porter2@gmail.com",
+        "firstName": "Christina",
+        "lastName": "Heaney",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/812.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
